@@ -1,0 +1,21 @@
+
+.image-class{
+  height: 110px;
+  width: 420px;
+  margin-bottom: 100px;
+}
+
+.inputEmail{
+  width: 400px;
+  height: 50px;
+  margin: 10px;
+  text-align: center;
+  background-color: #c8cee5;
+  font-size: 20px;
+}
+
+.buttonPrimary{
+  background-color: #35499f;
+  color: white;
+  
+}
